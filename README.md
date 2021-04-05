@@ -26,3 +26,11 @@ case insensitivity:
 ```
 find . -iname "test*"
 ```
+
+#### 2. Find by file type
+
+
+#### 3. Find by size
+
+
+#### 4. Find by user
