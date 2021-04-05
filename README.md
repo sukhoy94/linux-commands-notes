@@ -20,3 +20,9 @@ or using wildcard:
 ```
 find . -name "test*"
 ```
+
+case insensitivity: 
+
+```
+find . -iname "test*"
+```
