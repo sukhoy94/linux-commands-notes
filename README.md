@@ -62,7 +62,7 @@ r -> 4
 w -> 2
 x -> 1
 
-chmow 777 file # same as chmod ugo+rwx file
+chmod 777 file # same as chmod ugo+rwx file
 
 ``` 
 
