@@ -34,3 +34,23 @@ find . -iname "test*"
 
 
 #### 4. Find by user
+
+
+## Permissions
+
+```
+rwx
+
+r - read
+w - write
+x - execute
+
+
+u - user
+g - group
+o - other
+
+
+chmod - for changing permission
+``` 
+
