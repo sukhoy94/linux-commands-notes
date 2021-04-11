@@ -53,6 +53,10 @@ o - other
 
 chmod - for changing permission
 
+
 chmod u=rwx, g=w, o=r file
+or
+chmod ugo+rw file
+
 ``` 
 
