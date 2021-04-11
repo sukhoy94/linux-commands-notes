@@ -58,5 +58,11 @@ chmod u=rwx, g=w, o=r file
 or
 chmod ugo+rw file
 
+r -> 4
+w -> 2
+x -> 1
+
+chmow 777 file # same as chmod ugo+rwx file
+
 ``` 
 
